@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "require": false,
+    "exports": true,
+    "module": true
+  },
+  "browser": true,
+  "indent": 2,
+  "laxbreak": true,
+  "expr": true,
+  "white": true
+}

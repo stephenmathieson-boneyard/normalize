@@ -1,0 +1,16 @@
+{
+  "name": "normalize",
+  "repo": "stephenmathieson/normalize",
+  "description": "Normalize events",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/event": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
